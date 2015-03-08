@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDAA", "EDAA\EDAA.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDAA.Graphics", "EDAA.Graphics\EDAA.Graphics.csproj", "{80F39230-B03C-4EFF-840E-4A06AF002570}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDAA.SceneGraph", "EDAA.SceneGraph\EDAA.SceneGraph.csproj", "{B11C4DC9-7D37-4FA5-9376-FB0D5A81BF83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{80F39230-B03C-4EFF-840E-4A06AF002570}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F39230-B03C-4EFF-840E-4A06AF002570}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F39230-B03C-4EFF-840E-4A06AF002570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11C4DC9-7D37-4FA5-9376-FB0D5A81BF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11C4DC9-7D37-4FA5-9376-FB0D5A81BF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11C4DC9-7D37-4FA5-9376-FB0D5A81BF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11C4DC9-7D37-4FA5-9376-FB0D5A81BF83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
